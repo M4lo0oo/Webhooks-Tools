@@ -10,7 +10,7 @@ Webhook @everyone Spammer
 Webhook Image Spammer
 ```
 # Instalation
-Download ZIP file
+Download ZIP file and launch Start.bat
 # Or
 Write in a terminal
 ```
